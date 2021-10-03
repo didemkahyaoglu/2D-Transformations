@@ -10,4 +10,5 @@ In this assignment you will practice WebGL and 2D Transformations. There are mai
     b. Rotation of wings: Speed of rotation can be controlled
 
 3. Colors: Change color of the letters using the color controls.
-![windmill](https://user-images.githubusercontent.com/45897290/135770796-3d9ec888-9736-48ad-b9f7-2549c74fc153.gif)
+![windmill1](https://user-images.githubusercontent.com/45897290/135771076-499e5d97-1c70-435c-9206-9b95ac1ca274.gif)
+
